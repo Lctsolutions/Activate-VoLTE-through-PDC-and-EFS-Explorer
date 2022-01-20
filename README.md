@@ -1,8 +1,8 @@
 # Activate-VoLTE-through-PDC-and-EFS-Explorer (Android 12)
-If anyone want to activate VoLTE on crDroid 8 (Root needed) without going to OOS 11: 
+If you want to activate VoLTE on custom rom (in my case it's crDroid 8) (Root needed) without going to OOS 11: 
 
 1. Download and install QPST and Qualcomm Drivers from releases page
-2. Download USB Gadget Tool from https://f-droid.org/ru/packages/net.tjado.usbgadget/
+2. Download and install USB Gadget Tool from https://f-droid.org/ru/packages/net.tjado.usbgadget/
 3. Open USB Gadget Tool and turn on next modes (if they turned off) : 
      
      ( cser.dun.O , diag.diag, diag.diag.mdm , ffs.adb , gsi.dpl , gsi.rmnet , qdss.qdss , qdss.qdss.mdm )
