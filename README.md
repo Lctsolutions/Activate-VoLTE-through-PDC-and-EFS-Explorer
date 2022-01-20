@@ -43,7 +43,7 @@ adb shell
 su
 setprop sys.usb.config diag,serial_cdev,rmnet,adb
 
-Then disable fast in USB Gadget Tool app next modes : "diag.diag and diag.diag.mdm" 
+Then after 10 seconds disable in USB Gadget Tool app next modes : "diag.diag and diag.diag.mdm" 
 
 After that open PDC Tool
 
