@@ -6,7 +6,7 @@ If you want to activate VoLTE on custom rom (in my case it's crDroid 8) (Root ne
 3. Plug-in your phone into PC, and don't forget to enable MTP and ADB
 4. Open USB Gadget Tool and turn on next modes (if they turned off) : 
      
-     ( cser.dun.O , diag.diag, diag.diag.mdm , ffs.adb , gsi.dpl , gsi.rmnet , qdss.qdss , qdss.qdss.mdm )
+     ( cser.dun.0 , diag.diag, diag.diag.mdm , ffs.adb , gsi.dpl , gsi.rmnet , qdss.qdss , qdss.qdss.mdm )
      
      
 5. Further actions depending on what you need: EFS or PDC
