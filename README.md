@@ -1,5 +1,5 @@
-# Activate-VoLTE-through-PDC-and-EFS-Explorer (Android 12)
-If you want to activate VoLTE on custom rom (in my case it's crDroid 8) (Root needed) without going to OOS 11: 
+# Activate-VoLTE-through-PDC-and-EFS-Explorer (Android 11 | Android 12 | Android 12.1 | Android 13)
+If you want to activate VoLTE on custom rom (in my case it's crDroid 8 and crDroid 9) (Root needed) without going to OOS 11 / OOS 12: 
 
 1. Download and install QPST and Qualcomm Drivers from releases page
 2. Download and install USB Gadget Tool from https://f-droid.org/ru/packages/net.tjado.usbgadget/
@@ -10,6 +10,8 @@ If you want to activate VoLTE on custom rom (in my case it's crDroid 8) (Root ne
      
      
 5. Further actions depending on what you need: EFS or PDC
+6. IMPORTANT!!! Don't forget to disconnect and reboot your OP7Pro after using any mode (If you want use both EFS and PDC, then use PDC, after that, disconnect and reboot OP7Pro, then repeat all steps from beginning for EFS
+
 
 ========================================================================================
 
